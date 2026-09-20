@@ -157,6 +157,10 @@
 
 <p> The project improved my understanding of working with external APIs and real-world data. It also helped me learn how different components such as user input, API data, geographical processing, filtering, and final results can be connected to create a useful application. </p>
 
+<p>
+    <a href="https://github.com/Gayatrii0911/campusloop/blob/main/Gayatri%20Mahajan%20Sure%20Trust%20Project%20Report%20.pdf" target="_blank"><strong>-> View Full Project Report</strong></a>    
+</p>
+
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
